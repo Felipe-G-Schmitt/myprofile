@@ -16,8 +16,18 @@
 * HTML 5 e CSS 3
 * JavaScript por profissional
 
+<<<<<<< HEAD
 # Lista de bandas de rock
 
 * Pink Floyd
 * Beatles
 * Elvis Presley
+=======
+# Bandas de metal
+* Foo Fighters
+* ManoWar
+* PowerWolf
+* Draconian
+* Iron Mainden
+* Judas Priest
+>>>>>>> b858e138bf8dc9b83c6bc583b857274705f694b9
